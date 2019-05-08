@@ -1,0 +1,32 @@
+# 08/10/2018
+- suppose to create a TreeView (without using splitter)
+- DockablePane
+
+......
+
+# 19/10/2018
+- not yet finished understanding: Hash table, Merge k sorted array, External Sorting,...
+
+.............
+
+# 27/12/2018
+- learn some about Java:
+	+ OOP language
+	+ classes communicate to each others
+	+ each class is in a file (<class>.java)
+	+ small Type can be in a Bigger one, but the reverse is not.
+	+ Use 'reference variable' (Java) rather than 'pointer' (C/C++)
+	+ Java is pass-by-value
+	+ 
+
+
+.....................
+# 24/01/2018
+- learn chapter 2 of computer network
+- revise Delay and TCP/UCP....
+
+.................
+# 19/02/2019
+ Getting a promotion is a great honor. It means that your company recognizes your merits/achivements. When you are promoted to the position of supervisor,
+ your work-life changes. You are now in a position of responsibility. It is important to set a good example because your staffs look up to you. If you carry out
+ you job responsibility confidently, you will gain their respect. This is the key to success in your new position.
